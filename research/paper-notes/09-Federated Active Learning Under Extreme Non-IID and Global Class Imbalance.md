@@ -4,8 +4,8 @@
 
 - 论文标题：Federated Active Learning Under Extreme Non-IID and Global Class Imbalance
 - 作者：Chen-Chen Zong，Sheng-Jun Huang（通讯作者），南京航空航天大学
-- 发表年份 / 会议或期刊：CVPR 2026。这份 PDF 是 CVPR 开源版，页眉没有印年份；2026 来自官方代码仓库的说明
-- 论文链接 / DOI：代码 https://github.com/chenchenzong/FairFAL 。这份 PDF 没有 DOI，正式版在 IEEE Xplore
+- 发表年份 / 会议或期刊：CVPR 2026。
+- 论文链接 / DOI：代码 https://github.com/chenchenzong/FairFAL 。
 - 官方代码及许可证：仓库有代码，但没有设置许可证，论文正文也没写
 - 阅读日期：10.15
 
